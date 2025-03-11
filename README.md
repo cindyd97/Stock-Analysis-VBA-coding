@@ -4,7 +4,7 @@
 
 This assignment analyzes quarterly stock data to find stocks with the greatest increase/decrease and the greatest volume traded for the quarter. 
 
-### Programming Languages: 
+### Language: 
 Excel - VBA
 
 ### Data Source:
